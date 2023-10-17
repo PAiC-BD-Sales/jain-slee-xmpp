@@ -1,6 +1,13 @@
 # Extended JAIN SLEE XMPP
 
-The Extended JAIN SLEE XMPP is cloned from JAIN SLEE [https://github.com/RestComm/jain-slee.xmpp](https://github.com/RestComm/jain-slee.xmpp) from which they have added a set of improvements and new.
+> Extended JAIN SLEE XMPP is an enhanced variant originating from the JAIN SLEE project, accessible at [https://github.com/RestComm/jain-slee.xmpp](https://github.com/RestComm/jain-slee.xmpp). This version incorporates a range of improvements and innovations to elevate its functionality.
+
+## Key Features
+* Facilitates communication between applications and legacy communication systems.
+* Supports asynchronous execution of statements, optimizing resource utilization within the RA runtime.
+* Relieves the JAIN SLEE Event Router from resource-blocking interactions with Datasources.
+* Delivers results to applications seamlessly through JAIN SLEE events.
+* Eliminates the need for JAIN SLEE applications to manage connection closures, simplifying development and maintenance processes.
 
 ## Introduction
 
