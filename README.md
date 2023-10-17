@@ -9,10 +9,6 @@
 * Delivers results to applications seamlessly through JAIN SLEE events.
 * Eliminates the need for JAIN SLEE applications to manage connection closures, simplifying development and maintenance processes.
 
-## Introduction
-
-Open Source Extended JAIN SLEE allows applications to communicate with legacy communications, providing means to execute statements in asynchronous fashion. statements are executed in the RA runtime resources, freeing the JAIN SLEE Event Router from the burden of having its executors (threads) resources blocked by interactions with Datasources, and results are provided to applications through JAIN SLEE events. The JAIN SLEE application is also completely free from having to manage connection closings.
-
 ## Build Extended JAIN SLEE XMPP
 
 Ensure that the following requirements have been met before continuing with the install. The hardware requirements don't differ from the underlying JAIN SLEE requirements, refer to its documentation for further information.
